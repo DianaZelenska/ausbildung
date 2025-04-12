@@ -1,0 +1,2 @@
+INSERT INTO `produkt` (`id`, `produktname`, `beschreibung`) VALUES 
+(NULL, 'Günstige Zahnbürste', 'Günstige Zahnbürste, mittelhart\nPutzt sogar hinter den Zähnen!\n\nVerwendung: fragen Sie Ihren Arzt oder Apotheker.') 
