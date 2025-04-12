@@ -1,0 +1,18 @@
+.menue {
+	border-bottom:1px solid black;
+	border-left:1em;
+	border-right:1em;
+	padding-bottom:5px;
+	padding-top:5px;
+	margin-bottom:1em;
+}
+.menue a {
+	display:inline-block;
+	text-decoration:none;
+	color:black;
+	padding-left:5px;
+	padding-right:5px;
+}
+.menue a:hover {
+	background-color:rgb(200,255,200);
+}
