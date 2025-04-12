@@ -14,3 +14,7 @@ Ein kleines Webprojekt zur Anzeige von Bildern.
 Die SQL-Dateien zur Erstellung der Tabelle und der Testdaten befinden sich im Ordner 'sql'.
 
 # Vorschau
+![Screenshot](bildergalerie.png)
+
+## Hinweise
+Dieses Projekt wurde im Rahmen eines Lernprojektes erstellt und ist ein einfacher Prototyp ohne Design.
