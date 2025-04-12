@@ -11,3 +11,4 @@ Ein kleines Webprojekt zur Anzeige von Städten und ihrer Einwohnerzahl.
 Die SQL-Dateien zur Erstellung der Tabelle und der Testdaten befinden sich im Ordner 'sql'.
 
 # Vorschau
+![Screenshot](staedte.png)
