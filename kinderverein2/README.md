@@ -3,6 +3,7 @@ Ein kleines Webprojekt zur Verwaltung von Kindern in einem Verein. Es zeigt eine
 
 ## Funktionen
 - Anzeige von Vorname, Nachname und Alter.
+- Button **Neues Mitglied**, zeigt ein Formular zum Speichern eines neuen Kindes.
 - Möglichkeit, **Vor- und Nachnamen zu bearbeiten**.
 - Button "**Geburtstag**", um das Alter eines Kinders um 1 Jahr zu erhöhen.
 
